@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Driver Tracker</string>
+    <string name="title_activity_main">Driver Tracker</string>
+    <string name="package_name">com.ess.drivertracker</string>
+    <string name="custom_url_scheme">com.ess.drivertracker</string>
+</resources>
